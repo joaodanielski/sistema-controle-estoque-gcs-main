@@ -1,8 +1,5 @@
 # Documento de Requisitos – Sistema de Controle de Estoque (SCE)
 
-**Integrantes do Grupo:**
-- João Victor Danielski – RA: 2705583
-
 ---
 
 ## Descrição Geral
@@ -28,4 +25,3 @@ O Sistema de Controle de Estoque (SCE) tem como objetivo auxiliar pequenas empre
 ## Versão do Documento
 **Versão:** v1.0  
 **Data:** 08/11/2025  
-**Responsável:** João Victor Danielski
