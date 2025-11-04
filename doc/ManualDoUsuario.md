@@ -25,4 +25,3 @@ Este manual tem como objetivo orientar o usuário sobre o funcionamento básico 
 ## Versão do Manual
 **Versão:** v1.0  
 **Data:** 08/11/2025  
-**Responsável:** João Victor Danielski
